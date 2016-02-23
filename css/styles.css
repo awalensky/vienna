@@ -46,6 +46,10 @@ a:focus {
     outline: 0;
 }
 
+#content-cover{
+    position: relative;
+}
+
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
 }
@@ -60,9 +64,16 @@ h5{
     background-color: #1B1B1B;
     opacity: 0.7;
     border-radius: 30px;
-    position: relative;
-    bottom: -200px;
+    position: absolute;
+    bottom: -300px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+
 }
+
+
 
 
 
