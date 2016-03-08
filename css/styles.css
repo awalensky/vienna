@@ -80,6 +80,10 @@ p {
     background-color: #585858;
 }
 
+.bg-white {
+    background-color: #fff;
+}
+
 .bg-dark {
     color: #eee;
     background-color: #222;
