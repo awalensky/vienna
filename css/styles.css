@@ -74,11 +74,21 @@ h1,h2,h3,h4,h5,h6 {
 	width:400px;
 }
 
+.info {
+	padding-top: 50px;
+	padding-bottom: 0px;
+}
+
+.award {
+	padding-top: 0px;
+	padding-bottom: 50px;
+}
 
 .map {
     height: 400px;
 	padding: 0 0;
 }
+
 
 .map iframe{
     pointer-events: none;
