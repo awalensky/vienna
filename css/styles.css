@@ -394,6 +394,10 @@ footer {
     margin-top: 0;
 }
 
+.margin-top-10 {
+    margin-top: 10;
+}
+
 .feature {
     margin: 50px auto 0;
     max-width: 400px;
@@ -462,6 +466,11 @@ footer {
 .no-gutter > [class*=col-] {
     padding-right: 0;
     padding-left: 0;
+}
+
+.tb-gutter {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .btn-default {
