@@ -63,7 +63,8 @@ h1,h2,h3,h4,h5,h6 {
     height: 300px;
     color: #000;
     /*font-family: 'Comfortaa', cursive;*/
-    background: white url(../assets/HEADER_Inside_Impact_Hub.png) no-repeat center center scroll;
+    /*background: white url(../assets/muv_location.png) no-repeat center center scroll;*/
+    background: white;
     -webkit-background-size: auto;
     -moz-background-size: auto;
     background-size: auto;
